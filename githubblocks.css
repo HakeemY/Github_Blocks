@@ -1,0 +1,36 @@
+.h1{
+    text-align: center;
+}
+
+
+
+
+.flexboxcattop{
+    display: flex;
+    background-color: aqua;
+    flex: 5px;
+    border: 15px solid red;
+    margin: 20px;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.flexboxcatmid{
+    background-color: beige;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    gap: 20px;
+}
+
+.flexboxcatend{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    padding: 15px;
+}
+    img{
+        height: 200px;
+    }
+    
